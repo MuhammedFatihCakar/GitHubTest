@@ -1,0 +1,1 @@
+bu dersimi<de gitignore öğreniyoruz
